@@ -1,6 +1,6 @@
 # Insta47
 A feature-rich tweak for Instagram on iOS!\
-`Version v0.2.0`
+`Version v1.2`
 
 ---
 
