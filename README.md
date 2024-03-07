@@ -47,7 +47,7 @@ A feature-rich tweak for Instagram on iOS!\
 - [Azule](https://github.com/Al4ise/Azule/wiki)
 
 ## Install IPA
-You can install the tweaked IPA file like any other sideloaded iOS app. If you have not done this before, here are some suggestions to get started.
+You can install the tweaked IPA file like any other sideloaded iOS app. If you have not done this before, Please google how to sideload ipa files on non-jailbroken devices
 
 # Contributing
 Contributions to this tweak are greatly appreciated. Feel free to create a pull request if you would like to contribute.
